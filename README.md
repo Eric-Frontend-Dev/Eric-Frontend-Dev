@@ -2,7 +2,19 @@
 
 ## Frontend Developer | React | Open to Remote & Freelance
 
-I build clean, responsive and modern web experiences.
+# Hi there, I'm Eric 👋
+
+## Frontend Developer | React | Open to Remote & Freelance
+
+I'm a frontend developer based in Lagos, Nigeria, 
+specializing in building clean, responsive and 
+user-friendly web applications with React.
+
+I love turning complex problems into simple, 
+beautiful designs that work perfectly on any device.
+
+Currently available for remote positions and 
+freelance projects globally.
 
 ---
 
