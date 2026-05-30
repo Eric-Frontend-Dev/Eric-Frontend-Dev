@@ -26,5 +26,4 @@ I build clean, responsive and modern web experiences.
 - 💼 Open to freelance and remote opportunities
 - 📧 Reach me at: **ericadura75@gmail.com**
 
----
-![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eric-Frontend-Dev&show_icons=true&theme=dark&hide=contribs)
+
