@@ -24,9 +24,9 @@ freelance projects globally.
 ---
 
 ### 🚀 Projects
-- 🎬 [KachiFlix - Movie Discovery App](https://kachiflix.vercel.app)
+- 🎬 [KachiFlix - Movie Discovery Web App](https://kachiflix.vercel.app)
 - 🏨 [Nairobi Confession - Luxury Hotel Website](https://nairobi-confession.vercel.app)
-- 📚 Bookstore with Admin Panel - Coming Soon
+- 📚 [PageTurner Books - Web App](https://pageturner-books-psi.vercel.app/)
 
 ---
 
